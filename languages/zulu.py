@@ -1,0 +1,22 @@
+translations = {
+"water": "amanzi",
+"house": "indlu",
+"food": "ukudla",
+"sun": "ilanga",
+"book": "incwadi",
+"child": "ingane",
+"mother": "umama",
+"father": "ubaba",
+"goat": "imbuzi",
+"dog": "inja",
+"rain": "imvula",
+"road": "umgwaqo",
+"hand": "isandla",
+"head": "ikhanda",
+"fire": "umlilo",
+"day": "usuku",
+"night": "ubusuku",
+"market": "imakethe",
+"friend": "umngane",
+"school": "isikole"
+}

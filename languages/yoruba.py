@@ -1,0 +1,22 @@
+translations = {
+"water": "omi",
+"house": "ile",
+"food": "onje",
+"sun": "oorun",
+"book": "iwe",
+"child": "omo",
+"mother": "iya",
+"father": "baba",
+"goat": "ewure",
+"dog": "aja",
+"rain": "ojo",
+"road": "ona",
+"hand": "owo",
+"head": "ori",
+"fire": "ina",
+"day": "ojo",
+"night": "oru",
+"market": "oja",
+"friend": "ore",
+"school": "ile iwe"
+}

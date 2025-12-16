@@ -1,0 +1,22 @@
+translations = {
+"water": "mmiri",
+"house": "ulo",
+"food": "nri",
+"sun": "anyanwu",
+"book": "akwukwo",
+"child": "nwa",
+"mother": "nne",
+"father": "nna",
+"goat": "ewu",
+"dog": "nkita",
+"rain": "miri ozuzo",
+"road": "uzo",
+"hand": "aka",
+"head": "isi",
+"fire": "oku",
+"day": "ubochi",
+"night": "abali",
+"market": "ahia",
+"friend": "enyi",
+"school": "ulo akwukwo"
+}

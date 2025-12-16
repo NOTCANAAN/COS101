@@ -1,0 +1,22 @@
+translations = {
+"water": "maji",
+"house": "nyumba",
+"food": "chakula",
+"sun": "jua",
+"book": "kitabu",
+"child": "mtoto",
+"mother": "mama",
+"father": "baba",
+"goat": "mbuzi",
+"dog": "mbwa",
+"rain": "mvua",
+"road": "barabara",
+"hand": "mkono",
+"head": "kichwa",
+"fire": "moto",
+"day": "siku",
+"night": "usiku",
+"market": "soko",
+"friend": "rafiki",
+"school": "shule"
+}

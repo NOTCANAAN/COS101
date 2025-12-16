@@ -1,0 +1,22 @@
+translations = {
+"water": "ruwa",
+"house": "gida",
+"food": "abinci",
+"sun": "rana",
+"book": "littafi",
+"child": "yaro",
+"mother": "uwa",
+"father": "uba",
+"goat": "akuya",
+"dog": "kare",
+"rain": "ruwan sama",
+"road": "hanya",
+"hand": "hannu",
+"head": "kai",
+"fire": "wuta",
+"day": "rana",
+"night": "dare",
+"market": "kasuwa",
+"friend": "aboki",
+"school": "makaranta"
+}
