@@ -17,6 +17,6 @@ translations = {
 "music": "muziki",
 "time": "wakati",
 "family": "familia",
-"name": "jina",
 "love": "upendo"
+"name": "jina",
 }
