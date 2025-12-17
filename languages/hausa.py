@@ -18,5 +18,6 @@ translations = {
 "night": "dare",
 "market": "kasuwa",
 "friend": "aboki",
-"school": "makaranta"
+"school": "makaranta",
+"car": "mota"
 }
